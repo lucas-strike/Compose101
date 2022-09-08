@@ -7,5 +7,4 @@ Showcase the basics of Jetpack Compose:
 3. Theming (Color, Dimen, Shape, Type, Dark and Light theme, and so on).
 4. Handle value and value changes.
 
-
-https://user-images.githubusercontent.com/5704827/188960317-abf9cdeb-75ab-4329-8b16-433ecddea8c0.mov
+https://user-images.githubusercontent.com/94059504/189196222-5e821af2-97ed-4ddc-985e-59a93ce55c35.mov
